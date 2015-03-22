@@ -19,3 +19,8 @@ FireBase provide  for access to DATA by REST.
 
 ### GET - Reading Data
   curl https://b3wkc7jjens.firebaseio-demo.com/data.json
+
+
+## Util
+
+https://egghead.io/ : st
